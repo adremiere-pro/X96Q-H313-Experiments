@@ -1,6 +1,8 @@
 # Discovering the device
 
 ## Hardware
+![Alt text](X96Q_PCB.png?raw=true "PCB")
+
 ### Board name
 > BA301_627_ V1.3 20393
 
