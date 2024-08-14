@@ -15,3 +15,6 @@
 ## Issues with BT/Wlan 
 - https://forum.armbian.com/topic/23794-armbian-build-pr-rockchip64-add-ssv6051p-wifi-driver-for-current-and-edge-kernel/
 - https://github.com/armbian/build/pull/4269
+
+## TWRP by ToaruGakusei on XDA
+https://xdaforums.com/t/x96q-allwinner-h313.4151997/page-3

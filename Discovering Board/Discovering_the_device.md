@@ -1,32 +1,31 @@
 # Discovering the device
 
 ## Hardware
-![Alt text](X96Q_PCB.png?raw=true "PCB")
+![PCB Picture](X96Q_PCB.png?raw=true "PCB")
 
 ### Board name
-> BA301_627_ V1.3 20393
+    BA301_627_ V1.3 20393
 
 ### Factory Label
-> BA301 V1.3 -XR819
-> HX-JA ZF202402
-Seem to indiucate a Boad in Rev 1.3 created in Q1 2024 with a XR819 Wlan Chip
+    BA301 V1.3 -XR819
+    HX-JA ZF202402
+
+Seem to indicate a Board in Rev 1.3 created in Q1 2024 with a XR819 Wlan Chip.
 
 ### SOC
-The SOC on the Picture above seem to be the AllWinner H313
+The SOC on the Picture above seem to be the AllWinner H313.
 
 ### ROM
-The ROM is a JWA60 by Micron Technology Inc
+The ROM is a JWA60 by Micron Technology Inc.
 
 ## Software
 
 ### Check compilation instructions set
-> uname -m
->
+> eros-p1:/ $ uname -m  
 > armv8l
 
 ###  Architecture curent type
-> getconf -a | grep LONG_BIT
-> 
+> eros-p1:/ $ getconf -a | grep LONG_BIT  
 > LONG_BIT 32
 
 ### Check RAM

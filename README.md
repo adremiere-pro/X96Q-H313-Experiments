@@ -12,5 +12,5 @@ The one I selected is an X96Q built around an AllWinner H313 SOC with 2Gb RAM an
 This repo lists all the steps I've taken to get to grips with the device and install Home Assistant.
 
 ## Table of contents
-- [Discovering the device](Discovering_the_device.md)
-- [Documents & Usefull Links](Docs.md)
+- [Discovering the device](Discovering%20Board/Discovering_the_device.md)
+- [Documents & Usefull Links](Documents%20&%20Usefull%20Links/Docs.md)
