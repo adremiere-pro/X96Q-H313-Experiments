@@ -7,11 +7,11 @@ I have downloaded these programs, but having seen several users having encounter
 
 
 ## Install TWRP Recovery
-    C:\Users\Aymeric\Desktop\X96Q>fastboot flash recovery TWRP_recovery.img
+    C:\ > fastboot flash recovery TWRP_recovery.img
     Warning: skip copying recovery image avb footer (recovery partition size: 0, recovery image size: 33554432).
     Sending 'recovery' (32768 KB)                      OKAY [  1.289s]
     Writing 'recovery'                                 OKAY [  1.371s]
     Finished. Total time: 2.738s
 
 ## Create the backup
-![TWRP](twrp.png?raw=true "TWRP")
+![TWRP](img/twrp.png?raw=true "TWRP")
